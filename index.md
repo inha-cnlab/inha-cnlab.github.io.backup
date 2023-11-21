@@ -1,9 +1,9 @@
 ---
 ---
 
-# inha-cnlab's Website
+# Computer Networks Laboratory
 
-An engaging 1-3 sentence description of your lab.
+## Cloud Computing, IoT, and Smart Factories.
 
 {% include section.html %}
 
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/sensors-23-06280-g016-550.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/opentextmigration-diagram2.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -59,12 +59,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We currently have three master's students and two undergraduate students.
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link="member"
+  text="Meet our members"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -75,7 +75,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  link="member"
+  title="Our Members"
   text=text
 %}

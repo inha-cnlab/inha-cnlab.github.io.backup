@@ -1,10 +1,9 @@
 ---
-name: Jane Smith
+name: Jung Jae Hong
 image: images/photo.jpg
-role: pi
-aliases:
-  - J. Smith
-  - J Smith
+description: Under Graduate Student
+role: Under Graduate Student
+group: Under Graduate Student
 links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
