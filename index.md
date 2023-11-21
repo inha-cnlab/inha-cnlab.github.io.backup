@@ -63,7 +63,7 @@ We currently have three master's students and two undergraduate students.
 
 {%
   include button.html
-  link="member"
+  link="members"
   text="Meet our members"
   icon="fa-solid fa-arrow-right"
   flip=true
