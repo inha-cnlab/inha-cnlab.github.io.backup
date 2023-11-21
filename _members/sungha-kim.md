@@ -1,8 +1,9 @@
 ---
-name: Sarah Johnson
+name: Kim Sung Ha
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: MS Student
+role: Master
+group: Master
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson

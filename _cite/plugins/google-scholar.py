@@ -22,6 +22,7 @@ def main(entry):
     }
 
     # get id from entry
+    # _id = get_safe(entry, "gsid", "")
     _id = get_safe(entry, "gsid", "")
     if not _id:
         raise Exception('No "gsid" key')
