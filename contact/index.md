@@ -46,8 +46,8 @@ Hi-Tech 1107(하이테크센터 1107호)
 {% endcapture %}
 
 {% capture col3 %}
-#### Lab Representative's Phone Number
-010-1111-1111
+#### Lab Representative's Email
+semifinne@inha.edu
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
