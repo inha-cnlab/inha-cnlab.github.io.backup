@@ -4,7 +4,6 @@ image: images/members/professor.jpg
 role: professor
 links:
   email: gikwon@inha.ac.kr
-  phone: 
 ---
 
 ### Education
