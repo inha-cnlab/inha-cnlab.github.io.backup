@@ -36,7 +36,7 @@ We're conducting research on Cloud Computing, IoT, and Smart Factory.
 
 {% capture text %}
 
-We are working on a variety of projects related to our research area
+We are working on a variety of projects related to our research area.
 
 {%
   include button.html
