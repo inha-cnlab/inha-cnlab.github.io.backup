@@ -11,12 +11,6 @@ We're conducting research on Cloud Computing, IoT, and Smart Factory.
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
 ## All
 
 {% include search-box.html %}
