@@ -5,6 +5,8 @@
 
 ## Cloud Computing, IoT, and Smart Factories.
 
+
+
 {% include section.html %}
 
 ## About
@@ -26,7 +28,7 @@ We're conducting research on Cloud Computing, IoT, and Smart Factory.
 
 {%
   include feature.html
-  image="images/sensors-23-06280-g016-550.jpg"
+  image="images/opentextmigration-diagram2.png"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +51,7 @@ We are working on a variety of projects related to our research area
 
 {%
   include feature.html
-  image="images/opentextmigration-diagram2.png"
+  image="images/aws.png"
   link="projects"
   title="Our Projects"
   flip=true
