@@ -1,6 +1,6 @@
 ---
 name: Jung Jae Hong
-image: images/photo.jpg
+image: images/members/jaehong-jung.jpg
 description: Under Graduate Student
 role: Under Graduate Student
 group: Under Graduate Student
