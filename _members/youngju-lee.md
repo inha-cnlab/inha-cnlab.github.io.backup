@@ -5,7 +5,11 @@ description: MS Student
 role: Master
 group: Master
 links:
+  email: leeyj@inha.edu
   github: datadreamtree
 ---
 
-Hi, nice to meet you :)
+### Research Area
+- Cloud computing from a security perspective
+- IoT
+- Computer Networks

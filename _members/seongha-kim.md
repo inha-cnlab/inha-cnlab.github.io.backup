@@ -6,6 +6,10 @@ role: Master
 group: Master
 links:
   email: semifinne@inha.edu
+  github: KIMSEONGHA2223
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+### Research Area
+- Cloud computing
+- IoT
+- Computer Networks

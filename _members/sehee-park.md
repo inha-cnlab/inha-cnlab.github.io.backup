@@ -5,8 +5,9 @@ description: MS Student
 role: Master
 group: Master
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: 22211336@inha.edu
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+### Research Area
+- IoT
+- Object Detection - Using Radio Frequencies
