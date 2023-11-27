@@ -38,21 +38,14 @@ We're conducting research on Cloud Computing, IoT, and Smart Factory.
 
 We are working on a variety of projects related to our research area.
 
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+
 
 {% endcapture %}
 
 {%
   include feature.html
   image="images/aws.png"
-  link="projects"
+  link="#"
   title="Our Projects"
   flip=true
   style="bare"
