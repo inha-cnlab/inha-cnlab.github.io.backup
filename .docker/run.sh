@@ -10,7 +10,7 @@ CONTAINER=lab-website-renderer
 PLATFORM=""
 
 # default vars
-DOCKER_RUN="docker run"
+DOCKER_RUN="docker run -d"
 WORKING_DIR=$(pwd)
 
 # fix windows faux linux shells/tools
@@ -28,7 +28,6 @@ docker build ${PLATFORM} \
 ${DOCKER_RUN} ${PLATFORM} \
     --name ${CONTAINER} \
     --init \
-    --rm \
     --interactive \
     --tty \
     --publish 4000:4000 \

@@ -1,6 +1,6 @@
 ---
 name: Kim Gun Tak
-image: images/photo.jpg
+image: images/guntak-kim.jpg
 description: Under Graduate Student
 role: Under Graduate Student
 group: Under Graduate Student
