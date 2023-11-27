@@ -5,8 +5,7 @@ description: MS Student
 role: Master
 group: Master
 links:
-  github: s
-  home-page: s
+  github: datadreamtree
 ---
 
 Hi, nice to meet you :)

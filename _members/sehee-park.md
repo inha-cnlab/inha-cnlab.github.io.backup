@@ -1,6 +1,6 @@
 ---
 name: Park Se Hee
-image: images/photo.jpg
+image: images/members/sehee-park.jpg
 description: MS Student
 role: Master
 group: Master
