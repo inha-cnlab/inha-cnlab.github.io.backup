@@ -8,19 +8,13 @@ links:
   email: caputdraconis@kakao.com
   github: caputdraconis050630
   home-page: https://caputdraconis.tistory.com
+  linkedin: caputdraconis
 ---
   
 
 ### Research Area
 - Cloud Computing from a networks perspective
 - Computer Networks
-
-
-### Contact & Channel
-- <a href="mailto:caputdraconis@kakao.com">Email</a>      
-- <a href="https://github.com/caputdraconis050630">Github</a>
-- <a href="https://caputdraconis.tistory.com/">Blog</a>      
-- <a href="https://www.linkedin.com/in/%EA%B1%B4%ED%83%81-%EA%B9%80-3263b4204/">LinkedIn</a>   
 
 ### Certification
 <a href="https://www.credly.com/badges/a272aa9b-c61e-43dc-a147-c3665a6919b7/public_url"><img src="https://images.credly.com/size/680x680/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" width="100"></a>
