@@ -3,7 +3,7 @@
 
 # Computer Networks Laboratory
 
-## Cloud Computing, IoT, and Smart Factories.
+> Computer Networks Lab (CN Lab) studies __*Cloud Computing from multiple perspectives*__ & __*Internet of Things*__
 
 
 
