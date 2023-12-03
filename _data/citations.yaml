@@ -1,5 +1,3 @@
-# DO NOT EDIT, GENERATED AUTOMATICALLY
-
 - id: doi:10.3390/s23146280
   title: "Indoor Human Detection from a Building\u2019s Exterior Using 433 MHz Wireless\
     \ Transceivers"
@@ -13,6 +11,233 @@
   orcid: 0000-0003-0065-4330
   plugin: orcid.py
   file: orcid.yaml
+- id: none
+  title: Deep learning based non-line-of-sight identification with sub-1GHz narrow band frequency
+  authors:
+  - Yoonsu Jo
+  - Gu-In Kwon
+  publisher: INTERNATIONAL JOURNAL OF ENGINEERING RESEARCH AND TECHNOLOGY, 12권,12호, pp. 2336~2340
+  date: '2019-01-01'
+  link: https://www.ripublication.com/irph/ijert19/ijertv12n12_38.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: none
+  title: Smart Factory data collection using IoT device and Non-licensed frequency band wireless network
+  authors:
+  - Seungjae Yu
+  - Gu-In Kwon
+  publisher: 한국차세대컴퓨팅학회 논문지, 15권,1호, pp. 58~70
+  date: '2019-02-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002445778
+  plugin: sources.py
+  file: sources.yaml
+- id: none
+  title: Design and Implementation of Reliable 424MHz IoT Network using Centralized Scheduling-based Routing Protocol
+  authors:
+  - Joohee Jung
+  - Gu-In Kwon
+  publisher: 한국차세대컴퓨팅학회 논문지, 14권,3호, pp. 75~84
+  date: '2018-06-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002365792
+  plugin: sources.py
+  file: sources.yaml
+- id: none
+  title: Real-time Monitoring Technique Using SFC Classifier in NFV Environment
+  authors:
+  - Sang-Min Shin
+  - Gu-In Kwon
+  publisher: INTERNATIONAL JOURNAL OF APPLIED ENGINEERING RESEARCH, 12권,19호, pp. 8676~8680
+  date: '2017-01-01'
+  link: https://www.ripublication.com/ijaer17/ijaerv12n19_92.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: none
+  title: A Study on Reinforcement Learning based SFC Path Selection in SDN/NFV
+  authors:
+  - Hye-Jin Ku
+  - Joo-hee Jung
+  - Gu-In Kwon
+  publisher: NTERNATIONAL JOURNAL OF APPLIED ENGINEERING RESEARCH, 12권,12호, pp. 3439~3443
+  date: '2017-01-01'
+  link: https://www.ripublication.com/ijaer17/ijaerv12n12_63.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: none
+  title: Load balancing of software-defined network controller using genetic algorithm
+  authors:
+  - Seung-Bo Kang
+  - Gu-In Kwon
+  publisher: Contemporary Engineering Sciences, 9권,18호, pp. 881~888
+  date: '2016-01-01'
+  link: http://www.m-hikari.com/ces/ces2016/ces17-20-2016/p/CES66105.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: none
+  title: A Study of Service Function Chaining in Network Function Virtualization
+  authors:
+  - In-Cheol Jo
+  - Gu-In Kwon
+  publisher: International Journal of Software Engineering and its Applications, 10권,7호, pp. 93~100
+  date: '2016-01-01'
+  link: https://www.earticle.net/Article/A281774
+  plugin: sources.py
+  file: sources.yaml
+- id: none
+  title: Multicast Network Management Method by Using Software Defined Networking
+  authors:
+  - Seungbo Kang
+  - Junghyun Yoo
+  - Gu-In Kwon
+  publisher: 한국차세대컴퓨팅학회 논문지, 12권,2호, pp. 55~63
+  date: '2016-04-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002106789
+  plugin: sources.py
+  file: sources.yaml
+- id: none
+  title: Gravity Removal and Vector Rotation Algorithm for Stepcounting using a 3-axis MEMS acceleromete
+  authors:
+  - Seung-Young Kim
+  - Gu-In Kwon
+  publisher: 한국컴퓨터정보학회논문지, 19권,5호, pp. 43~52
+  date: '2014-05-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001877311
+  plugin: sources.py
+  file: sources.yaml
+- id: none
+  title: Lightweight Individual Encryption for Secure Multicast Dissemination over WSNs
+  authors:
+  - Taehyun Park
+  - Seung Young Kim
+  - Gu-In Kwon
+  publisher: 한국컴퓨터정보학회논문지, 18권,11호
+  date: '2013-11-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001821011
+  plugin: sources.py
+  file: sources.yaml
+- id: none
+  title: Reliable routing algorithm on wireless sensor network
+  authors:
+  - Jun-Jun Liang
+  - Zheng-Wu Yuan
+  - Jian-Jun Lei
+  - Gu-In Kwon
+  publisher: INTERNATIONAL JOURNAL OF ELECTRICAL & COMPUTER SCIENCES, 12권,06호
+  date: '2010-01-01'
+  link: https://ieeexplore.ieee.org/abstract/document/5440510
+  plugin: sources.py
+  file: sources.yaml
+- id: none
+  title: Mutual Authentication Protocol based on the Random Divided Session for the Security of Medical Information in Home-Health
+  authors:
+  - Heon-Cheol Lim
+  - Tae-Hyun Park
+  - Gu-In Kwon
+  publisher: 한국컴퓨터정보학회논문지, 17권,10호, pp. 79~88
+  date: '2012-10-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001708293
+  plugin: sources.py
+  file: sources.yaml
+- id: none
+  title: Analyzing Network Address Translator Models Regarding Hole Punching Capability
+  authors:
+  - Jeung-Hyeon YU
+  - Ha-Young Kim
+  - Taehyun Park
+  - Gu-In Kwon
+  publisher: 한국차세대컴퓨팅학회 논문지, 8권,5호, pp. 40~48
+  date: '2012-10-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001710622
+  plugin: sources.py
+  file: sources.yaml
+- id: none
+  title: Reliable and Efficient Data Transmission in Congested Wireless Sensor Networks
+  authors:
+  - Youngho Shim
+  - Taehyun Park
+  - Gu-In Kwon
+  publisher: 한국차세대컴퓨팅학회 논문지, 8권,1호, pp. 15~23
+  date: '2012-2-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001640128
+  plugin: sources.py
+  file: sources.yaml
+- id: none
+  title: Overlapped Channels Interference between IEEE 802.15.4 and IEEE 802.11g/n
+  authors:
+  - Sunghoon Lee
+  - Wonjae Park
+  - Gu-In Kwon
+  publisher: 한국차세대컴퓨팅학회 논문지, 7권,1호, pp. 9~16
+  date: '2011-2-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001533354
+  plugin: sources.py
+  file: sources.yaml
+- id: none
+  title: Impact of Low Power Listening on Node Synchronization in USN
+  authors:
+  - Ye-Seul Park
+  - Ha-Young Kim
+  - Tae-hyun Park
+  - Gu-In Kwon
+  publisher: 한국차세대컴퓨팅학회 논문지, 6권,4호, pp. 19~27
+  date: '2010-01-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001478047
+  plugin: sources.py
+  file: sources.yaml
+- id: none
+  title: Reliable Data Transmission Based on Erasure-resilient Code in Wireless Sensor Networks
+  authors:
+  - Jian-Jun Lei
+  - Gu-In Kwon
+  publisher: KSII TRANSACTIONS ON INTERNET AND INFORMATION SYSTEMS, 4권,1호, pp. 62~77
+  date: '2010-01-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001460477
+  plugin: sources.py
+  file: sources.yaml
+- id: none
+  title: An Efficient Implementation of Tornado Code for Fault Tolerance
+  authors:
+  - Gu-In Kwon
+  - John Byers 
+  publisher: 한국공간정보시스템학회논문지, 11권,2호, pp. 13~18
+  date: '2009-01-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001361151
+  plugin: sources.py
+  file: sources.yaml
+- id: none
+  title: Reliable Overlay Multicast with Loosely Coupled TCP Connections
+  authors:
+  - Jian-Jun Lei
+  - Gu-In Kwon
+  publisher: JOURNAL OF COMMUNICATIONS AND NETWORKS, 11권, pp. 306~317
+  date: '2009-01-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001362562
+  plugin: sources.py
+  file: sources.yaml
+- id: none
+  title: Improving Throughput with TCP Overlay Network
+  authors:
+  - Ha-Young Kim 
+  - Ye-Seul Park
+  - Gu-In Kwon
+  publisher: 한국차세대컴퓨팅학회 논문지, 5권,2호, pp. 28~33
+  date: '2009-01-01'
+  link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001362988
+  plugin: sources.py
+  file: sources.yaml
+- id: none
+  title: Fine-Grained Layered Multicast With STAIR
+  authors:
+  - J.W. Byers 
+  - Gu-In Kwon
+  - M. Luby
+  - M. Mitzenmacher
+  publisher: IEEE-ACM TRANSACTIONS ON NETWORKING, 14권, pp. 81~93
+  date: '2006-02-1'
+  link: https://ieeexplore.ieee.org/abstract/document/1597225/authors#full-text-header
+  plugin: sources.py
+  file: sources.yaml
+
+
 - id: doi:10.1155/2016/5824523
   title: Interrupt-Based Step-Counting to Extend Battery Life in an Activity Monitor
   authors:
