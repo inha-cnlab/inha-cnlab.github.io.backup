@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: /inha-cnlab.github.io.backup/sitemap.xml
